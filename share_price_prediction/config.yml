@@ -1,8 +1,0 @@
-start_date: '2017-07-10' 
-end_date: '2022-07-09'
-window_size: 28
-horizon_size: 7
-target: 'High'
-asx200_list: 'ASX200/ASX200_List.xlsx'
-asx200_historical_price: 'ASX200/ASX200_Historical_Prices.xlsx'
-5y_companies: 1267
